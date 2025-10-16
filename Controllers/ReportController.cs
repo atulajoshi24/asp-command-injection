@@ -79,3 +79,5 @@ public class ReportController : Controller
         }
     }
 }
+
+//Payload : http://localhost:5049/report/generate/testReport && dir > listdir.txt
