@@ -1,0 +1,25 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 50EB-DF0E
+
+ Directory of C:\Users\user\Documents\dotnetworkspace\command-injection
+
+17-10-2025  02:45    <DIR>          .
+17-10-2025  02:45    <DIR>          ..
+17-10-2025  02:17               127 appsettings.Development.json
+17-10-2025  02:17               151 appsettings.json
+17-10-2025  02:18    <DIR>          bin
+17-10-2025  02:17               273 command-injection.csproj
+17-10-2025  02:17             1,128 command-injection.sln
+17-10-2025  02:17    <DIR>          Controllers
+17-10-2025  02:43             1,067 listdir.txt
+17-10-2025  02:17    <DIR>          Models
+17-10-2025  02:18    <DIR>          obj
+17-10-2025  02:45                 0 oo.txt
+17-10-2025  02:26             1,018 out.txt
+17-10-2025  02:19               698 Program.cs
+17-10-2025  02:17    <DIR>          Properties
+17-10-2025  02:45                14 testReport
+17-10-2025  02:23    <DIR>          Views
+17-10-2025  02:17    <DIR>          wwwroot
+               9 File(s)          4,476 bytes
+               9 Dir(s)  63,887,572,992 bytes free
